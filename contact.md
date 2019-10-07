@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+background: '/img/contact.jpg'
 permalink: /contact/
 ---
 <form name="sentMessage" id="contactForm" novalidate>
